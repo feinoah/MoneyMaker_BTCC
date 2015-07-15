@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment> auto trading system </comment>
+
+<entry key="nwx1_apiUrl">https://nwx1.btcchina.com/api_trade_v1.php</entry>
+<entry key="nwx1_ACCESS_KEY">042f85af-ade8-4742-98a8-0917e0532995</entry>
+<entry key="nwx1_SECRET_KEY">b4563142-9b9d-4a13-935b-0b1ba9ebe1da</entry>
+
+<entry key="owx1_apiUrl">https://owx1.btcchina.com/api_trade_v1.php</entry>
+<entry key="owx1_ACCESS_KEY">c36d7a37-aae9-4033-8ad8-2f8f73ebfd07</entry>
+<entry key="owx1_SECRET_KEY">c3dda738-b9fe-4d35-9862-4bcff63e846a</entry>
+
+<entry key="vip_apiUrl">https://staging.btcchina.com/api_trade_v1.php</entry>
+<entry key="vip_ACCESS_KEY">bd672897-104d-494e-a4f2-2297c4f7e131</entry>
+<entry key="vip_SECRET_KEY">73df62db-ad99-4115-a406-8b89d815fd9a</entry>
+
+<entry key="depth_make_max_orders">1</entry>
+
+<entry key="btc_num_mdepth_determine_mprice">5</entry>
+<entry key="btc_valid_mprice_amount">5</entry>
+<entry key="btc_depth_make_amount">0.05</entry>
+<entry key="btc_mins_expire_depth">10</entry>
+<entry key="btc_consecu_fall">0</entry>
+<entry key="btc_pair_timer">1</entry>
+<entry key="btc_pair_timer_diff">1</entry>
+<entry key="btc_session_timer">2</entry>
+<entry key="btc_openorder_limit">50</entry>
+<entry key="btc_order_amount">5</entry>
+<entry key="btc_spread_price">0.1</entry>
+<entry key="btc_fiat">5000</entry>
+
+</properties>

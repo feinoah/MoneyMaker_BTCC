@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+<entry key="vip_apiUrl">https://api.btcchina.com/api_trade_v1.php</entry>
+<entry key="vip_ACCESS_KEY">Put your access key here</entry>
+<entry key="vip_SECRET_KEY">Put your secret key here</entry>
+
+</properties>

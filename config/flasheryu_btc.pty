@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>auto trading system</comment>
+<entry key="btc_pair_timer">6.0</entry>
+<entry key="btc_order_amount">5.0</entry>
+<entry key="last_filled_ask_price">2027.7</entry>
+<entry key="last_filled_ask_id">63078994</entry>
+<entry key="last_filled_bid_id">63078997</entry>
+<entry key="last_filled_ask_amount">2.4656</entry>
+<entry key="btc_session_timer">2.0</entry>
+<entry key="btc_openorder_limit">50</entry>
+<entry key="last_filled_bid_price">1987.7</entry>
+<entry key="btc_spread_price">0.1</entry>
+<entry key="last_filled_bid_amount">2.5157</entry>
+</properties>
